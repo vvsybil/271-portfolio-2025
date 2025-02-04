@@ -14,3 +14,8 @@
 For Lab 3, we had to recreate a design from Dribbble on Figma, which as at least 10 different components. This is the one I decided to recreate:
 
 https://dribbble.com/shots/25318173-Blockchain-Integration-Video-Designs
+
+This is what it turned it to be:
+
+![image](https://github.com/user-attachments/assets/16e40acf-7435-47ae-a9bf-39aa35aa060e)
+
