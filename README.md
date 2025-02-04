@@ -17,5 +17,6 @@ https://dribbble.com/shots/25318173-Blockchain-Integration-Video-Designs
 
 This is what it turned it to be:
 
-![image](https://github.com/user-attachments/assets/16e40acf-7435-47ae-a9bf-39aa35aa060e)
+![image](https://github.com/user-attachments/assets/3d6677fa-8380-49e0-8372-3b67a26b323d)
+
 
