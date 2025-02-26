@@ -24,8 +24,11 @@ This is what it turned it to be:
 For Lab 4, we needed to design and prototype a virtual tour webpage in Figma, with the following elements:
 
 *1. Webpage Structure*
+
 Home Page – The starting page for your virtual tour.
+
 Menu – A navigation system that lets users access every page.
+
 Three Landmark Pages – Each showcasing a specific location with:
 * A name
 * A set of images
