@@ -5,9 +5,22 @@
 
 
 # Lab 1
+
+For Lab 1, this project contains a user story map for a grocery website, structured with:
+- At least three epics forming the backbone
+- A walking skeleton with six steps
+- 18+ tasks, each with a name, status, and time estimate
+- Three detailed tasks utilizing various Markdown features
+- Two releases, including some unscheduled tasks
+One extra feature, which is additiona card colours.
+
 ![image](https://github.com/user-attachments/assets/39de5f9e-4f0e-4561-a2ba-b1465a57f3b3)
 
 ![image](https://github.com/user-attachments/assets/f38df4a1-86c5-47ba-a8ec-1680eb84074a)
+
+# Lab 2
+
+For Lab 2, 
 
 # Lab 3
 
