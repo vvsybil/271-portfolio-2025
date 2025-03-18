@@ -20,7 +20,7 @@ One extra feature, which is additiona card colours.
 
 # Lab 2
 
-For Lab 2, 
+For Lab 2, I had to analyze and make a content audit for the website . The goal of this lab was to assess the existing structure and assets of a small website (3–5 pages)
 
 # Lab 3
 
